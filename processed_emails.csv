@@ -1,0 +1,16 @@
+Sender,Receiver,Summary (English),Summary (Hindi)
+alice@example.com,frank@example.com,"This email is a reminder about a meeting scheduled for tomorrow at 10 AM.  Attendees should review the attached documents before the meeting. The meeting will include a discussion of the next quarter's roadmap, so attendees should come prepared with any questions or concerns. 
+","यह ईमेल कल सुबह 10 बजे निर्धारित बैठक के बारे में एक अनुस्मारक है।  भाग लेने वालों को बैठक से पहले संलग्न दस्तावेजों की समीक्षा करनी चाहिए। बैठक में अगली तिमाही के रोडमैप की चर्चा शामिल होगी, इसलिए भाग लेने वालों को किसी भी प्रश्न या चिंता के साथ तैयार रहना चाहिए। 
+"
+bob@example.com,judy@example.com,"This email provides a project update, highlighting significant progress made in the past week, putting the project ahead of schedule. However, it also mentions ongoing issues, particularly with the new API integration, that require attention. 
+","यह ईमेल एक प्रोजेक्ट अपडेट प्रदान करता है, जिसमें पिछले हफ्ते हुई महत्वपूर्ण प्रगति पर प्रकाश डाला गया है, जिससे प्रोजेक्ट समय से पहले पूरा हो रहा है। हालांकि, इसमें कुछ चल रहे मुद्दों का भी उल्लेख है, खासकर नए API एकीकरण के साथ, जिन पर ध्यान देने की आवश्यकता है। 
+"
+charlie@example.com,grace@example.com,"This email provides a weekly sprint report, stating that the team successfully achieved all milestones but faced some testing-related blockers. It recommends a meeting with the QA team to address these issues and ensure everything is on track for the next sprint. 
+","यह ईमेल एक साप्ताहिक स्प्रिंट रिपोर्ट प्रदान करता है, जिसमें कहा गया है कि टीम ने सभी मील के पत्थर सफलतापूर्वक प्राप्त कर लिए हैं, लेकिन परीक्षण से संबंधित कुछ बाधाओं का सामना करना पड़ा। यह अगले स्प्रिंट के लिए सब कुछ पटरी पर रखने के लिए इन मुद्दों को दूर करने के लिए QA टीम के साथ एक बैठक की सिफारिश करता है। 
+"
+dave@example.com,heidi@example.com,"This email is an invoice reminder for a recent purchase. It attaches the invoice with a due date at the end of the month and offers a discount for early payment. It encourages the recipient to reach out with any questions regarding the invoice. 
+","यह ईमेल हाल ही में की गई खरीद के लिए एक इनवॉइस रिमाइंडर है। इसमें महीने के अंत तक की देय तिथि के साथ इनवॉइस संलग्न है और जल्दी भुगतान के लिए छूट प्रदान करता है। यह प्राप्तकर्ता को इनवॉइस के संबंध में किसी भी प्रश्न के लिए संपर्क करने के लिए प्रोत्साहित करता है। 
+"
+eve@example.com,ivan@example.com,"This email invites the recipient to a corporate event next Friday. It highlights networking opportunities and discussions about future projects. An RSVP by the end of the week is requested, and the event will feature business casual attire, food, and drinks. 
+","यह ईमेल प्राप्तकर्ता को अगले शुक्रवार को होने वाले एक कॉर्पोरेट कार्यक्रम में आमंत्रित करता है। इसमें नेटवर्किंग के अवसरों और भविष्य की परियोजनाओं पर चर्चा को उजागर किया गया है। सप्ताहांत तक आरएसवीपी का अनुरोध किया गया है, और कार्यक्रम में बिजनेस कैजुअल पोशाक, भोजन और पेय पदार्थ होंगे। 
+"

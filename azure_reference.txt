@@ -1,0 +1,13 @@
+Basic Definitions : https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing
+Azure Data Factory, Azure Data Bricks,Azure Synapse Analytics : https://www.youtube.com/results?search_query=wafastudies
+MS Azure Storage | Blobs | Files | Queues| Tables| Hindi : https://www.youtube.com/watch?v=CJ6z4dFFnAY
+Azure SQL Database : https://www.youtube.com/watch?v=ya7izLiXHeU
+Azure Virtual Machine Creation : https://www.youtube.com/watch?v=-jxzbnrc9RA
+Azure Resource Manager : https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview#resource-groups
+Azure Table Storage : https://youtu.be/HSL1poL1VR0
+Choose Azure table vs Cosnos DB : https://youtu.be/J5fsKMkRqV8
+Azure IAM : https://youtu.be/4MBIz7YhRFY
+Azure IAM and Service principal : https://youtu.be/mgO9cifzR_g
+Azure Mock Interviews : 
+ 1 . https://youtu.be/XXyLmd_KNfE
+ 2 . https://youtu.be/jQhc1NwdOOg

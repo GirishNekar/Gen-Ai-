@@ -1,0 +1,29 @@
+From: alice@example.com
+To: frank@example.com
+Subject: Meeting Reminder
+This is to remind you about the meeting tomorrow at 10 AM. Please make sure to review the attached documents beforehand. We will also discuss the roadmap for the next quarter, so come prepared with any questions or concerns.
+---END OF EMAIL---
+
+From: bob@example.com
+To: judy@example.com
+Subject: Project Update
+Please find attached the latest project update. We have made significant progress in the last week, and we are ahead of schedule. However, there are still some open issues that need to be addressed, particularly regarding the new API integration.
+---END OF EMAIL---
+
+From: charlie@example.com
+To: grace@example.com
+Subject: Weekly Report
+Here is your weekly report for the last sprint. The team has achieved all milestones, but we had some blockers related to testing. We recommend having an additional meeting with the QA team to ensure everything is on track before the next sprint.
+---END OF EMAIL---
+
+From: dave@example.com
+To: heidi@example.com
+Subject: Invoice Attached
+Attached is the invoice for your recent purchase. The payment is due by the end of the month. If you have any questions regarding the invoice, please do not hesitate to reach out. We are also offering a discount for early payment, so feel free to contact us for more details.
+---END OF EMAIL---
+
+From: eve@example.com
+To: ivan@example.com
+Subject: Event Invitation
+You're invited to our upcoming corporate event next Friday. This will be an excellent opportunity for networking and discussing future projects. We encourage you to RSVP by the end of this week. Dress code is business casual, and food and drinks will be provided throughout the evening.
+---END OF EMAIL---

@@ -1,0 +1,23 @@
+Product: iPhone 13
+Review: The phone has an amazing camera and the battery life is fantastic. However, the price is a bit too high for what it offers.
+---END OF REVIEW---
+
+Product: Sony Headphones
+Review: Great sound quality and comfortable to wear for long periods. The noise cancellation feature works really well in crowded areas.
+---END OF REVIEW---
+
+Product: Samsung Galaxy S21
+Review: A decent phone overall but the performance lags a bit when running multiple apps. Not worth upgrading if you already have the previous version.
+---END OF REVIEW---
+
+Product: Dell XPS 13 Laptop
+Review: Excellent build quality and the display is gorgeous. However, the fan can get pretty loud when the system is under heavy load.
+---END OF REVIEW---
+
+Product: Apple Watch Series 7
+Review: I love the fitness tracking features, and the always-on display is super handy. Battery life could be better, but it's still a solid choice.
+---END OF REVIEW---
+
+Product: Kindle Paperwhite
+Review: Perfect for reading! The e-ink display is easy on the eyes, and I love that it's waterproof. It's great for reading on the go.
+---END OF REVIEW---
